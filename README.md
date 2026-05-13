@@ -16,6 +16,7 @@
 🎓 PG-DAC Certified from SunBeam Institute of Information Technology  
 💡 Passionate about backend development, scalable systems, and modern web technologies  
 ⚙️ Interested in Backend Engineering, System Design, DevOps, and Cloud Technologies  
+🤖 Enthusiastic about Artificial Intelligence, Machine Learning, and intelligent software systems  
 🌱 Currently exploring advanced Spring Boot, Docker, and backend architecture  
 🔥 Loves transforming ideas into real-world software projects  
 
@@ -112,7 +113,9 @@
 ✔ Backend System Design
 ✔ Cloud & DevOps Fundamentals
 ✔ Microservices Architecture
-✔ Artificial Intelligence
+✔ Machine Learning Fundamentals
+✔ Scikit-learn
+✔ AI Agents
 ```
 
 ---
