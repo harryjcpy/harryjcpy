@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer | Backend Enthusiast | CSE Graduate
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Spring+Boot+Developer;MERN+Stack+Enthusiast;Docker+%26+Linux+Learner;Building+Scalable+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Spring+Boot+Developer;AI+Enthusiast;Docker+%26+Linux+Learner;Building+Scalable+Applications" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Engineering Graduate
+🎓 Computer Science Engineering Graduate  
 🎓 PG-DAC Certified from SunBeam Institute of Information Technology  
 💡 Passionate about backend development, scalable systems, and modern web technologies  
 ⚙️ Interested in Backend Engineering, System Design, DevOps, and Cloud Technologies  
