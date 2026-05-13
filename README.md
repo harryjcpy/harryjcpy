@@ -13,6 +13,7 @@
 # 👨‍💻 About Me
 
 🎓 Computer Science Engineering Graduate
+🎓 PG-DAC Certified from SunBeam Institute of Information Technology  
 💡 Passionate about backend development, scalable systems, and modern web technologies  
 ⚙️ Interested in Backend Engineering, System Design, DevOps, and Cloud Technologies  
 🌱 Currently exploring advanced Spring Boot, Docker, and backend architecture  
