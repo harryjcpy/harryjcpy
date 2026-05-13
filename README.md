@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer | Backend Enthusiast | 2024 CSE Graduate
+### 🚀 Full Stack Developer | Backend Enthusiast | CSE Graduate
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Spring+Boot+Developer;MERN+Stack+Enthusiast;Docker+%26+Linux+Learner;Building+Scalable+Applications" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-🎓 2024 Computer Science Engineering Graduate  
+🎓 Computer Science Engineering Graduate
 🎓 PG-DAC Certified from SunBeam Institute of Information Technology  
 💡 Passionate about backend development, scalable systems, and modern web technologies  
 ⚙️ Interested in Backend Engineering, System Design, DevOps, and Cloud Technologies  
@@ -23,7 +23,7 @@
 
 # 🎓 Education
 
-- Bachelor of Technology in Computer Science Engineering (2024)
+- Bachelor of Technology in Computer Science Engineering 
 - PG-DAC — SunBeam Institute of Information Technology
 
 ---
@@ -85,9 +85,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harryjcpy&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryjcpy&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=harryjcpy&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -107,7 +107,7 @@
 
 ```txt
 ✔ Advanced Spring Boot
-✔ Docker & Containerization
+✔ Kubernetes
 ✔ Linux Shell Automation
 ✔ Backend System Design
 ✔ Cloud & DevOps Fundamentals
@@ -140,7 +140,7 @@
 
 ### ⚡ "Code. Learn. Build. Repeat."
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=harryjcpy&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
