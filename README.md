@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Full Stack Developer | Backend Enthusiast | CSE Graduate
+### 🚀 CSE Grad | Full Stack Developer | Backend Enthusiast | | AI Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Spring+Boot+Developer;AI+Enthusiast;Docker+%26+Linux+Learner;Building+Scalable+Applications" alt="Typing SVG" />
 
