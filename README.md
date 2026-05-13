@@ -12,19 +12,19 @@
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Engineering Graduate  
-🎓 PG-DAC Certified from SunBeam Institute of Information Technology  
-💡 Passionate about backend development, scalable systems, and modern web technologies  
-⚙️ Interested in Backend Engineering, System Design, DevOps, and Cloud Technologies  
-🤖 Enthusiastic about Artificial Intelligence, Machine Learning, and intelligent software systems  
-🌱 Currently exploring advanced Spring Boot, Docker, and backend architecture  
-🔥 Loves transforming ideas into real-world software projects  
+🎓 Computer Science Engineering Graduate <br>
+🎓 PG-DAC Certified from SunBeam Institute of Information Technology <br>
+💡 Passionate about backend development, scalable systems, and modern web technologies <br>
+⚙️ Interested in Backend Engineering, System Design, DevOps, and Cloud Technologies <br>
+🤖 Enthusiastic about Artificial Intelligence, Machine Learning, and intelligent software systems <br>
+🌱 Currently exploring advanced Spring Boot, Kubernetes, backend architecture, and Machine Learning <br>
+🔥 Loves transforming ideas into real-world software projects
 
 ---
 
 # 🎓 Education
 
-- Bachelor of Technology in Computer Science Engineering 
+- Bachelor of Technology in Computer Science Engineering
 - PG-DAC — SunBeam Institute of Information Technology
 
 ---
@@ -86,9 +86,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harryjcpy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harryjcpy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryjcpy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryjcpy&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -146,4 +146,3 @@
 <img src="https://komarev.com/ghpvc/?username=harryjcpy&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
-
