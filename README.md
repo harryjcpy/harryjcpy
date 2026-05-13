@@ -12,9 +12,8 @@
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Engineering Graduate <br>
+💡 Passionate about backend development, scalable systems, and modern web technologies and AI <br>
 🎓 PG-DAC Certified from SunBeam Institute of Information Technology <br>
-💡 Passionate about backend development, scalable systems, and modern web technologies <br>
 ⚙️ Interested in Backend Engineering, System Design, DevOps, and Cloud Technologies <br>
 🤖 Enthusiastic about Artificial Intelligence, Machine Learning, and intelligent software systems <br>
 🌱 Currently exploring advanced Spring Boot, Kubernetes, backend architecture, and Machine Learning <br>
@@ -111,7 +110,6 @@
 ✔ Microservices Architecture
 ✔ Machine Learning Fundamentals
 ✔ Scikit-learn
-✔ AI Agents
 ```
 
 ---
